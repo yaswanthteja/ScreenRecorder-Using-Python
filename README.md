@@ -200,3 +200,12 @@ screen_recorder.mainloop()
 ```
 
 we created a simple Screen recorder from scratch. The project introduces opencv and a simple application of it.
+
+
+
+
+
+https://user-images.githubusercontent.com/93423367/155726660-4394a23a-6fa7-4b05-861d-52f4e7a0777e.mp4
+
+
+
